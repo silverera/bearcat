@@ -27,7 +27,7 @@
     "magic, self-described javaScript objects"
   ],
   "dependencies": {
-    "pomelo-logger": "0.1.x",
+    "pomelo-logger": "git://github.com/silverera/pomelo-logger.git#v0.1.8",
     "commander": "2.x",
     "chokidar": "~1.0.1"
   },
